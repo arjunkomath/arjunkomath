@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about [anything](https://github.com/arjunkomath/ama)
 - 📫 How to reach me: arjunkomath@gmail.com
-- ⚡ Fun fact: HTML stands for How To Meet Ladies
+- ⚡ Fun fact: HTML is not a programming language
