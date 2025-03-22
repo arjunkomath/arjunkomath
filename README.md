@@ -10,4 +10,4 @@
 
 and lots of other stuff! I write [here](https://techulus.xyz) occasionally.
 
-![Metrics](/github-metrics.svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=arjunkomath&show_icons=true&theme=transparent)
