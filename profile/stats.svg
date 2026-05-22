@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Arjun Komath's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 544, Total Commits  (last year) : 1447, Total PRs: 771, Total Issues: 36, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 544, Total Commits  (last year) : 1450, Total PRs: 771, Total Issues: 36, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 38.36141842852488;
+        stroke-dashoffset: 38.35513887490041;
       }
     }
   
